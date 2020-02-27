@@ -1,5 +1,5 @@
 .container {
-    /* margin-bottom: 100px; */
+    margin-bottom: 100px;
 }
 .nav-item {
     margin: 10px;
@@ -17,7 +17,7 @@
     border-radius: 5px;
 }
 .carousel-indicators .active{
-    background-color: #dada2d;
+    background-color: orange;
 }
 .buy-now-button {
     background-color: black;
@@ -25,4 +25,19 @@
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
+}
+.see-all a{
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
 }

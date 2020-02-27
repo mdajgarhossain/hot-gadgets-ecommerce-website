@@ -1,6 +1,28 @@
 .container {
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
 }
 .nav-item {
     margin: 10px;
+}
+.carousel-bg {
+    
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.carousel-indicators li{
+    background-color: gray;
+    height: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.carousel-indicators .active{
+    background-color: #dada2d;
+}
+.buy-now-button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
 }

@@ -41,3 +41,6 @@
     background-color: white;
     border-top: none;
 }
+.cat-beauty, .cat-shoes {
+    margin: 30px 15px;
+}
